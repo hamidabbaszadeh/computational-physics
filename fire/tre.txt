@@ -1,0 +1,26 @@
+[Error] No set selected
+[Error] /root/ is not a regular file
+[Error] Need to read block data first
+SSerr =           2220.19
+
+Variable order:
+    0    1    2 
+Vector Beta      : 
+ 0: 23.13 
+ 1: -0.242 
+ 2: 0.002069 
+Vector d         : 
+ 0: 50 
+ 1: 1.041e+06 
+ 2: 1.733e+10 
+rbar matrix:
+           255         85850
+                         510
+Vector thetab    : 
+ 0: 139 
+ 1: 0.8131 
+ 2: 0.002069 
+
+y = 23.134 - 0.24203 * x + 0.002069 * x^2
+
+Regression of set 0 results to set 2

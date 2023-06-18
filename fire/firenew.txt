@@ -1,0 +1,24 @@
+[Error] No set selected
+Number of observations			 = 31
+Mean of independent variable		 = 0.004676048
+Mean of dependent variable		 = 0.6107739
+Standard dev. of ind. variable		 = 0.002056974
+Standard dev. of dep. variable		 = 0.006721565
+Correlation coefficient			 = 0.8609391
+Regression coefficient (SLOPE)		 = 2.813287
+Standard error of coefficient		 = 0.308682
+t - value for coefficient		 = 9.113869
+Regression constant (INTERCEPT)		 = 0.5976188
+Standard error of constant		 = 0.001572767
+t - value for constant			 = 379.9794
+
+Analysis of variance
+Source		 d.f	 Sum of squares	 Mean Square	 F
+Regression	   1	0.001004632	0.001004632	83.0626
+Residual	   29	0.0003507514	1.209487e-05
+Total		   30	0.001355383
+
+
+y = 0.59762 + 2.8133 * x
+
+Regression of set 0 results to set 1

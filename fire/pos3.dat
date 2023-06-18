@@ -1,0 +1,23 @@
+Number of observations			 = 19
+Mean of independent variable		 = 0.004365717
+Mean of dependent variable		 = 0.6107366
+Standard dev. of ind. variable		 = 0.001152877
+Standard dev. of dep. variable		 = 0.006444916
+Correlation coefficient			 = 0.738003
+Regression coefficient (SLOPE)		 = 4.125651
+Standard error of coefficient		 = 0.9149204
+t - value for coefficient		 = 4.5093
+Regression constant (INTERCEPT)		 = 0.5927251
+Standard error of constant		 = 0.004124116
+t - value for constant			 = 143.7218
+
+Analysis of variance
+Source		 d.f	 Sum of squares	 Mean Square	 F
+Regression	   1	0.0004072145	0.0004072145	20.33379
+Residual	   17	0.0003404504	2.002649e-05
+Total		   18	0.0007476649
+
+
+y = 0.59273 + 4.1257 * x
+
+Regression of set 0 results to set 1
