@@ -1,14 +1,14 @@
 !-------------------------------------------------!
-!        SHARIF UNIVERSITY OF THECHNOLOGY         !
+!   SHARIF UNIVERSITY OF THECHNOLOGY              !
 !                                                 !
-!        Hamid Abbaszadeh 83701556                !
-!        email: abbaszadeh.h@gmail.com            !
+!   Hamid Abbaszadeh 83701556                     !
+!   email: abbaszadeh.h@gmail.com                 !
 !                                                 !
-!        Dr. Langari                              !
+!   Dr. Langari                                   !
 !                                                 !
-!        October 29, 2005                         !
+!   October 29, 2005                              !
 !                                                 !
-!        Euler (Problem Number 5) Version 1.0.1   !
+!   Euler (Problem Number 5) Version 1.0.1        !
 !-------------------------------------------------!
 PROGRAM cyclic
    IMPLICIT NONE

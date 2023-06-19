@@ -17,7 +17,7 @@ PROGRAM cyclic
    REAL, PARAMETER :: dt = 0.005, G = 1.0, M = 1.0
    INTEGER :: i
    REAL :: r, r_mid, x_mid, y_mid, V_x_mid, V_y_mid
-   REAL, DIMENSION(N)        :: V_x, V_y, x, y
+   REAL, DIMENSION(N) :: V_x, V_y, x, y
 
 !--------------Initial Conditions-----------------------------!
    x(1) = 1.0

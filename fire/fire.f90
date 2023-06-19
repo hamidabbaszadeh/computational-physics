@@ -12,7 +12,7 @@ program fire
    integer, dimension(L1, L1) :: a = 0
    integer :: t, t_max
    integer :: a1, a2, m, n, i, j, q, k, r, ab, ac, po, L, pl
-   real        :: p, p_max, clock_start, clock_finish
+   real :: p, p_max, clock_start, clock_finish
 
    CALL RANDOM_SEED()
 
@@ -108,11 +108,11 @@ program fire
             t_max = t
             p_max = p
          end if
-         !write(10,*),p,t/w
+         !write(10,*) p, t/w
       end do !end for main loop in p
       call cpu_time(clock_finish)
-      write (*, *), L, p_max, "CPU Time = ", (clock_finish - clock_start), " seconds"
-      write (10, *), 1.0/(L*1.0), p_max
+      write (*, *) L, p_max, "CPU Time = ", (clock_finish - clock_start), " seconds"
+      write (10, *) 1.0/(L*1.0), p_max
    end do !for main loop in L
    close (10)
 
